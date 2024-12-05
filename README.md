@@ -14,11 +14,11 @@
 
 ###
 
-<h4 align="center">Skills</h4>
+<h4 align="left">Skills</h4>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -40,11 +40,11 @@
 
 ###
 
-<h4 align="center">Python</h4>
+<h4 align="left">Python</h4>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
@@ -56,11 +56,11 @@
 
 ###
 
-<h4 align="center">Studying</h4>
+<h4 align="left">Studying</h4>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
